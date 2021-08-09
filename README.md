@@ -8,7 +8,7 @@ companies to plan their marketing strategy in fields like: <br/>
 <br/>
     Product placement<br/>
     Promotional discount<br/>
-    POS (point of sales) advertisement 
+    POS (point of sales) advertisement <br/>
     Product boundling<br/>
     ANTICEDENT AND CONSEQUENT products can be combined to a new product<br/>
  <br/>
