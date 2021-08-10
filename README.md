@@ -2,7 +2,7 @@ ML TECHNICS IN THE RETAIL INDUSTRY<br/>
 <br/>
 In this section I am focusing on data anlysis and machine learning technics, which can be used in the retail industry.<br/>
 <br/>
-In the GROCERY MARKET BASKET analysis project I determin ASSOCIATION rules, ANTICEDENT AND CONSEQUENT  <br/>
+In the GROCERY MARKET BASKET analysis project I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT  <br/>
 elements, and calculate SUPPORT, CONFIDENCE and LIFT indicators in two different ways, which provide useful <br/>
  information for the companies to plan their marketing strategy in fields like: <br/>
 <br/>
