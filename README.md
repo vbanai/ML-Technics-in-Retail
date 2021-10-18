@@ -14,9 +14,11 @@ elements, and calculate SUPPORT, CONFIDENCE and LIFT indicators in two different
  <br/>
 <br/>
 In the E-COMMERCE analysis project I am working with a huge retail data trying out various technics to explore <br/>
-useful connections and relations among the data including "Choropleth" to check the geographical <br/>
-distribution of the purchases, "Tokenizer" to find frequent word formation, performing market basket<br/>
-analysis, trying to use unsupervised k-means technic to cluster the data.
- 
+useful connections and relations among the data including:
+- Choropleth to check the geographical distribution of the purchases <br/>
+- Kmeans clustering to define customer clusters on the basis how many invoices (say one invoice means one shopping) one customer has and what are the total value of the invoices per customer.<br/>
+- Text mining technics to find product categories<br/>
+- Market basket anylsis to get to know the buying patterns of the customers and promote cross selling of various products<br/>
+
     
  
