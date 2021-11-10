@@ -1,4 +1,4 @@
-ML TECHNICS IN THE RETAIL INDUSTRY<br/>
+ML TECHNICS IN SALES AND MARKETING<br/>
 <br/>
 In this section I am focusing on data anlysis and machine learning technics, which can be used in the retail industry.<br/>
 <br/>
