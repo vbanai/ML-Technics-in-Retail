@@ -23,9 +23,9 @@ connections and relations among the data including:<br/>
 <br/>
 - Choropleth to check the geographical distribution of the purchases <br/>
 - Kmeans clustering to define customer clusters on the basis of how many invoices (say one invoice per <br/>
-  customer means one shopping) one customer has and what are the total value of the invoices.<br/>
+   customer means one shopping) one customer has and what are the total value of the invoices.<br/>
 - Text mining technics to find product categories<br/>
-- Market basket anylsis to get to know the buying patterns of the customers and promote cross selling of various products<br/>
-
+- Market basket anylsis to get to know the buying patterns of the customers and promote cross selling of <br/>
+  various products
     
  
