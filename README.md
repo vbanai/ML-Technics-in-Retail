@@ -6,9 +6,9 @@ and marketing management.<br/>
 1.) GROCERY MARKET BASKET ANALYSIS<br/>
 <br/>
 In this project I am focusing on how market basket analysis improve 4P strategies. I determine ASSOCIATION<br/>
-I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT elements, and calculate SUPPORT, CONFIDENCE and LIFT  <br/>
-indicators in two different ways, which provide useful information for the companies to plan their marketing  <br/>
-strategy in fields like:
+I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT elements, and calculate SUPPORT, CONFIDENCE   <br/>
+and LIFT indicators in two different ways, which provide useful information for the companies to plan   <br/>
+their marketing strategy in fields like:
 <br/>
 - Product placement<br/>
 - Promotional discount<br/>
