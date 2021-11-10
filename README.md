@@ -17,8 +17,9 @@ their marketing strategy in fields like:
 - ANTICEDENT AND CONSEQUENT products can be combined to a new product<br/>
  <br/>
 <br/>
-2.) E-COMMERCE analysis project. In this project I am working with a huge retail data trying out various technics  <br/>
-to explore useful connections and relations among the data including:<br/>
+2.) E-COMMERCE RETAIL BUSINESS ANALYSIS<br/>
+In this project I am working with a huge retail data trying out various technics to explore useful <br/>
+connections and relations among the data including:<br/>
 <br/>
 - Choropleth to check the geographical distribution of the purchases <br/>
 - Kmeans clustering to define customer clusters on the basis of how many invoices (say one invoice means one shopping) one customer has and what are the total value of the invoices per customer.<br/>
