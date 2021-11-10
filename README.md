@@ -18,6 +18,7 @@ their marketing strategy in fields like:
  <br/>
 <br/>
 2.) E-COMMERCE RETAIL BUSINESS ANALYSIS<br/>
+<br/>
 In this project I am working with a huge retail data trying out various technics to explore useful <br/>
 connections and relations among the data including:<br/>
 <br/>
@@ -28,7 +29,8 @@ connections and relations among the data including:<br/>
 - Market basket anylsis to get to know the buying patterns of the customers and promote cross selling of <br/>
   various products<br/>
    <br/>
- 3.) CREDIT CARD FRAUD DETECTION
+ 3.) CREDIT CARD FRAUD DETECTION<br/>
+ <br/>
  The dataset from Kaggle contains transactions made by credit cards in September 2013 by European cardholders. <br/>
  The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions. The <br/>
  reason why I was interested in this dataset is how to find a trade-off between recall and precision or in<br/>
