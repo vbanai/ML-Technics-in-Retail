@@ -3,9 +3,12 @@ ML TECHNICS IN SALES AND MARKETING<br/>
 In this section I am focusing on data anlysis and machine learning technics, which can be used in sales <br/>
 and marketing management.<br/>
 <br/>
-1.) In the GROCERY MARKET BASKET analysis project I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT  <br/>
-elements, and calculate SUPPORT, CONFIDENCE and LIFT indicators in two different ways, which provide useful <br/>
- information for the companies to plan their marketing strategy in fields like: <br/>
+1.) GROCERY MARKET BASKET ANALYSIS<br/>
+<br/>
+In this project I am focusing on how market basket analysis improve 4P strategies. I determine ASSOCIATION<br/>
+I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT elements, and calculate SUPPORT, CONFIDENCE and LIFT  <br/>
+indicators in two different ways, which provide useful information for the companies to plan their marketing  <br/>
+strategy in fields like:
 <br/>
 - Product placement<br/>
 - Promotional discount<br/>
