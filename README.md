@@ -45,8 +45,9 @@ connections and relations among the data including:<br/>
 | Logistic Regression (Sklearn) with 0.1 threshold value|        79.79%        |      81.52%       |  17 |        
 | Random Forest Classifier |        95.00%       |       82.61%        |  16 |       
 | Random Forest Classifier with 0.4 threshold value |        95.18%      |       85.87%        |  11 |   
-| Feed-forward neural network|        0.60        |       0.52        |  0.009 |        
-|         XGBoost with cross-validation and YJ transformation          |        0.60        |       0.50        |  0.055 |     
-| Random Forest with Yeo-Johnson transformation and K-fold cross validation |0.59 | 0.50 | 0.065 |  
+| XGBoost|        96.30%       |       84.78%        |  14 |   
+| XGBoost with 0.2 threshold | 93.02%  | 86.96%  | 12 |  
+|         XGBoost with cross-validation and 0.2 threshold          |        92.06%        |       90.62%        |  6 |     
+
   
  
