@@ -16,12 +16,12 @@ their marketing strategy in fields like:
 - Product boundling<br/>
 - ANTICEDENT AND CONSEQUENT products can be combined to a new product<br/>
  <br/>
-<br/>
 2.) E-COMMERCE RETAIL BUSINESS ANALYSIS<br/>
 <br/>
 In this project I am working with a huge retail data trying out various analysis to explore useful <br/>
 connections and relations among the data including:<br/>
 <br/>
+
 - Sales and revenue analysis:
  Describing the transactions by geographical distribution, by invoice amount and volume, by annual <br/>
  distribution and detecting loyal customers<br/>
