@@ -19,16 +19,23 @@ their marketing strategy in fields like:
 <br/>
 2.) E-COMMERCE RETAIL BUSINESS ANALYSIS<br/>
 <br/>
-In this project I am working with a huge retail data trying out various technics to explore useful <br/>
+In this project I am working with a huge retail data trying out various analysis to explore useful <br/>
 connections and relations among the data including:<br/>
 <br/>
-- Choropleth to check the geographical distribution of the purchases <br/>
-- Kmeans clustering to define customer clusters on the basis of how many invoices (say one invoice per <br/>
-   customer means one shopping) one customer has and what are the total value of the invoices.<br/>
-- Text mining technics to find product categories<br/>
-- Market basket anylsis to get to know the buying patterns of the customers and promote cross selling of <br/>
-  various products<br/>
-   <br/>
+- Sales and revenue analysis:
+ Describing the transactions by geographical distribution, by invoice amount and volume, by annual <br/>
+ distribution and detecting loyal customers<br/>
+
+- Segmentation: <br/>
+ Creating consumer clusters, detecting loyal and satisfied customers, and detecting clusters that <br/>
+ are lucrative for the shop regarding revenue <br/>
+
+- Text mining: Find popular product categories based on the line item descriptions <br/>
+
+- Market basket analyis: 
+ Getting to know the buying patterns of the customers to promote cross selling of products to boost <br/>
+ the revenue and build loyalty and satisfaction.<br/>
+<br/>
  3.) CREDIT CARD FRAUD DETECTION<br/>
  <br/>
  The dataset from Kaggle contains transactions made by credit cards in September 2013 by European cardholders. <br/>
