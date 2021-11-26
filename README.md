@@ -33,8 +33,8 @@ connections and relations among the data including:<br/>
 - Text mining: Find popular product categories based on the line item descriptions <br/>
 
 - Market basket analyis: 
- Getting to know the buying patterns of the customers to promote cross selling of products to boost <br/>
- the revenue and build loyalty and satisfaction.<br/>
+ Getting to know the buying patterns of the customers to promote cross selling of  <br/>
+ products to boost the revenue and build loyalty and satisfaction.<br/>
 <br/>
  3.) CREDIT CARD FRAUD DETECTION<br/>
  <br/>
