@@ -22,7 +22,7 @@ In this project I am working with a huge retail data trying out various analysis
 connections and relations among the data including:<br/>
 <br/>
 
-- Sales and revenue analysis:
+- Sales and revenue analysis:<br/>
  Describing the transactions by geographical distribution, by invoice amount and volume, by annual <br/>
  distribution and detecting loyal customers<br/>
 
