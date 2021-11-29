@@ -12,7 +12,7 @@ is introduced at locations in several randomly selected markets using three diff
 out A/B testing among the promotion campaigns to see which is the best option. Here the key value I am  <br/>
 performing the AB test is continous. <br/>
 <br/>
-The second AB test is carried out on descrete value. Task is to check two different WEBDESIGN, where I test  <br/>
+The second AB test is carried out on descrete value. Task is to check TWO DIFFERENT WEBDESIGNS, where I test  <br/>
 a banner with green button or red button. The metric will be the click -through rate, showing how many  <br/>
 people clicked on the banner with red button and how many people clicked on the banner with green button.  <br/>
 Both banners take to the same  webpage. By means of the A/B test we can decide which button is more effective <br/>
