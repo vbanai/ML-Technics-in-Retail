@@ -3,7 +3,20 @@ ML TECHNICS IN SALES AND MARKETING<br/>
 In this section I am focusing on data anlysis and machine learning technics, which can be used in sales <br/>
 and marketing management.<br/>
 <br/>
-1.) GROCERY MARKET BASKET ANALYSIS<br/>
+1.) A/B TESTING<br/>
+<br/>
+This project contains two A/B tests. In the first one I evaluate and compare 3 marketing campaigns. Dataset is <br/>
+downloaded from Kaggle. The scenario is that a fast food chain plans to add a new item to its menu. One of the <br/>
+common questions being what promotion has the greatest effect on sales. In order to determine this, the new item <br/>
+is introduced at locations in several randomly selected markets using three different marketing campaigns. I carry out <br/>
+A/B testing among the promotion campaigns to see which is the best option. Here the key value I am performing the <br/>
+AB test is continous. <br/>
+The second AB test is carried out on descrete value. Task is to check two different WEBDESIGN, where I test a banner <br/>
+with green button or red button. The metric will be the click -through rate, showing how many people clicked on the <br/>
+banner with red button and how many people clicked on the banner with green button. Both banners take to the same webpage. <br/>
+By means of the A/B test we can decide which button is more effective and produce more click through rate in the real life.<br/>
+<br/>
+2.) GROCERY MARKET BASKET ANALYSIS<br/>
 <br/>
 In this project I am focusing on how market basket analysis improve 4P strategies. I determine ASSOCIATION<br/>
 I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT elements, and calculate SUPPORT, CONFIDENCE   <br/>
@@ -16,7 +29,7 @@ their marketing strategy in fields like:
 - Product boundling<br/>
 - ANTICEDENT AND CONSEQUENT products can be combined to a new product<br/>
  <br/>
-2.) E-COMMERCE RETAIL BUSINESS ANALYSIS<br/>
+3.) E-COMMERCE RETAIL BUSINESS ANALYSIS<br/>
 <br/>
 In this project I am working with a huge retail data trying out various analysis to explore useful <br/>
 connections and relations among the data including:<br/>
@@ -36,7 +49,7 @@ connections and relations among the data including:<br/>
  Getting to know the buying patterns of the customers to promote cross selling of  <br/>
  products to boost the revenue and build loyalty and satisfaction.<br/>
 <br/>
- 3.) CREDIT CARD FRAUD DETECTION<br/>
+ 4.) CREDIT CARD FRAUD DETECTION<br/>
  <br/>
  The dataset from Kaggle contains transactions made by credit cards in September 2013 by European cardholders. <br/>
  The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions. The <br/>
