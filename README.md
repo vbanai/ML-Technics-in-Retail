@@ -15,7 +15,7 @@ The second AB test is carried out on descrete value. Task is to check two differ
 with green button or red button. The metric will be the click -through rate, showing how many people clicked on the <br/>
 banner with red button and how many people clicked on the banner with green button. Both banners take to the same  <br/>
 webpage. By means of the A/B test we can decide which button is more effective and produce more click through rate .<br/>
-in the real life
+in the real life<br/>
 <br/>
 2.) GROCERY MARKET BASKET ANALYSIS<br/>
 <br/>
