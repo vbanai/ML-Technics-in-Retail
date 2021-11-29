@@ -46,15 +46,21 @@ connections and relations among the data including:<br/>
   some precision percent to increase the recall result, and decrease the sum of the False Negative <br/>
   predictions. Please check the models and the results:<br/>
    
-   |           Models           | Precision | Recall |False Negative Sum | 
-|----------------------------|--------------------|-------------------|--------|      
-| Logistic Regression (Sklearn) |        89.86%        |       67.39%        |  30 |    
-| Logistic Regression (Sklearn) with 0.1 threshold value|        79.79%        |      81.52%       |  17 |        
-| Random Forest Classifier |        95.00%       |       82.61%        |  16 |       
-| Random Forest Classifier with 0.4 threshold value |        95.18%      |       85.87%        |  11 |   
-| XGBoost|        96.30%       |       84.78%        |  14 |   
-| XGBoost with 0.2 threshold | 93.02%  | 86.96%  | 12 |  
-|         XGBoost with cross-validation and 0.2 threshold          |        92.06%        |       90.62%        |  6 |     
+   |           Models           | Specificity | Sensitivity |
+|----------------------------|--------------------|-------------------|
+| Logistic Regression (Sklearn) |        89.86%        |       67.39%        |    
+| Logistic Regression (Sklearn) with 0.1 threshold value|        79.79%        |      81.52%       |        
+| Random Forest Classifier |        95.00%       |       82.61%        |      
+| Random Forest Classifier with 0.4 threshold value |        95.18%      |       85.87%        |   
+| XGBoost|        96.30%       |       84.78%        |  
+| XGBoost with 0.4 threshold | 96%  | 86% |  
+|       XGBoost with SMOTE Technique         |        99.80%       |       99.43%        |   
+|        XGBoost with SMOTE Technique and 0.4 threshold          |        99,64%     |       99.79%       |   
+|         XGBoost with SMOTEENN Technique          |        99.69%      |       99.45%        | 
+|         Neural Network with class weight          |        90.43%      |       66.67%        | 
+|         Neural Network with class weight          |        90.43%      |       66.67%        | 
+|         Neural Network with simple undersampling        |        91.84%     |       94.74%        | 
+|         Neural Network with simple oversampling (recommended for small dataset)        |        99.72%      |       100.00%        | 
 
   
  
