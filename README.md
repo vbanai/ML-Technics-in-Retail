@@ -5,7 +5,7 @@ and marketing management.<br/>
 <br/>
 1.) A/B TESTING<br/>
 <br/>
-This project contains two A/B tests. In the first one I evaluate and compare 3 marketing campaigns. Dataset is <br/>
+This project contains two A/B tests. In the first one I evaluate and compare 3 MARKETING CAMPAIGNS. Dataset is <br/>
 downloaded from Kaggle. The scenario is that a fast food chain plans to add a new item to its menu. One of the <br/>
 common questions being what promotion has the greatest effect on sales. In order to determine this, the new item <br/>
 is introduced at locations in several randomly selected markets using three different marketing campaigns. I carry  <br/>
