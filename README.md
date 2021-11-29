@@ -53,7 +53,7 @@ connections and relations among the data including:<br/>
 | Random Forest Classifier |        95.00%       |       82.61%        |      
 | Random Forest Classifier with 0.4 threshold value |        95.18%      |       85.87%        |   
 | XGBoost|        96.30%       |       84.78%        |  
-| XGBoost with 0.4 threshold | 96%  | 86% |  
+| XGBoost with 0.4 threshold | 96.34%  | 85.87% |  
 |       XGBoost with SMOTE Technique         |        99.80%       |       99.43%        |   
 |        XGBoost with SMOTE Technique and 0.4 threshold          |        99,64%     |       99.79%       |   
 |         XGBoost with SMOTEENN Technique          |        99.69%      |       99.45%        | 
