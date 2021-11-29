@@ -58,7 +58,6 @@ connections and relations among the data including:<br/>
 |        XGBoost with SMOTE Technique and 0.4 threshold          |        99,64%     |       99.79%       |   
 |         XGBoost with SMOTEENN Technique          |        99.69%      |       99.45%        | 
 |         Neural Network with class weight          |        90.43%      |       66.67%        | 
-|         Neural Network with class weight          |        90.43%      |       66.67%        | 
 |         Neural Network with simple undersampling        |        91.84%     |       94.74%        | 
 |         Neural Network with simple oversampling (recommended for small dataset)        |        99.72%      |       100.00%        | 
 
