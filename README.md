@@ -23,7 +23,6 @@ and produce more click through rate in the real life.<br/>
 2.) RECOMMENDATION SYSTEMS<br/>
 <br/>
 A) GROCERY MARKET BASKET ANALYSIS<br/>
-
 In this project I am focusing on how market basket analysis improve 4P strategies. I determine ASSOCIATION<br/>
 I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT elements, and calculate SUPPORT, CONFIDENCE   <br/>
 and LIFT indicators in two different ways, which provide useful information for the companies to plan   <br/>
