@@ -9,15 +9,17 @@ This project contains two A/B tests. In the first one I evaluate and compare 3 m
 downloaded from Kaggle. The scenario is that a fast food chain plans to add a new item to its menu. One of the <br/>
 common questions being what promotion has the greatest effect on sales. In order to determine this, the new item <br/>
 is introduced at locations in several randomly selected markets using three different marketing campaigns. I carry out <br/>
-A/B testing among the promotion campaigns to see which is the best option. Here the key value I am performing the <br/>
-AB test is continous. <br/>
+A/B testing among the promotion campaigns to see which is the best option. Here the key value I am <br/>
+performing the AB test is continous. <br/>
 The second AB test is carried out on descrete value. Task is to check two different WEBDESIGN, where I test a banner <br/>
 with green button or red button. The metric will be the click -through rate, showing how many people clicked on the <br/>
 banner with red button and how many people clicked on the banner with green button. Both banners take to the same  <br/>
 webpage. By means of the A/B test we can decide which button is more effective and produce more click through rate .<br/>
 in the real life.<br/>
 <br/>
-2.) GROCERY MARKET BASKET ANALYSIS<br/>
+2.) RECOMMENDATION SYSTEMS<br/>
+<br/>
+A) GROCERY MARKET BASKET ANALYSIS<br/>
 <br/>
 In this project I am focusing on how market basket analysis improve 4P strategies. I determine ASSOCIATION<br/>
 I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT elements, and calculate SUPPORT, CONFIDENCE   <br/>
