@@ -5,7 +5,7 @@ and marketing management.<br/>
 <br/>
 1.) A/B TESTING<br/>
 <br/>
-A) MARKETING CAMPAIGN TEST
+A) MARKETING CAMPAIGN TEST<br/>
 This project contains two A/B tests. In the first one I evaluate and compare 3 MARKTETING CAMPAIGNS. Dataset is <br/>
 downloaded from Kaggle. The scenario is that a fast food chain plans to add a new item to its menu. One of the <br/>
 common questions being what promotion has the greatest effect on sales. In order to determine this, the new item <br/>
@@ -13,7 +13,7 @@ is introduced at locations in several randomly selected markets using three diff
 I carry out A/B testing among the promotion campaigns to see which is the best option. Here the key value  <br/>
 I am performing the AB test is continous. <br/>
 <br/>
-B) WEBDESIGN TEST
+B) WEBDESIGN TEST<br/>
 The second AB test is carried out on descrete value. Task is to check TWO DIFFERENT WEBDESIGNS, where I  <br/>
 test a banner with green button or red button. The metric will be the click -through rate, showing how many <br/>
 people clicked on the banner with red button and how many people clicked on the banner with green button.   <br/>
