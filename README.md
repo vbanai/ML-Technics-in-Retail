@@ -39,8 +39,8 @@ their marketing strategy in fields like:
 consequently looks at the similarities between users. User-to-item matrix has to be created on the <br/>
 basis of cosine similarity to check which customers has similar buying patterns and to set hierarchy <br/>
 among these customers. Finally we check which are the products in the similar users' basket that are <br/>
-missing from the examined consumer's basket, and these products can be recommend to the given customer <br/>
-with respect to the hierarchy created on the basis of similarity.<br/>
+missing from the examined consumer's basket, and these products can be recommend to the given  <br/>
+customer with respect to the hierarchy created on the basis of similarity.<br/>
  <br/>
 3.) E-COMMERCE RETAIL BUSINESS ANALYSIS<br/>
 <br/>
