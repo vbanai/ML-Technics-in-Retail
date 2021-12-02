@@ -22,7 +22,7 @@ and produce more click through rate in the real life.<br/>
 <br/>
 2.) RECOMMENDATION SYSTEMS<br/>
 <br/>
-A) GROCERY MARKET BASKET ANALYSIS<br/>
+A) MARKET BASKET ANALYSIS<br/>
 In this project I am focusing on how market basket analysis improve 4P strategies. I determine ASSOCIATION<br/>
 I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT elements, and calculate SUPPORT, CONFIDENCE   <br/>
 and LIFT indicators in two different ways, which provide useful information for the companies to plan   <br/>
@@ -34,17 +34,20 @@ their marketing strategy in fields like:
 - Product boundling<br/>
 - ANTICEDENT AND CONSEQUENT products can be combined to a new product<br/>
  <br/>
- B) COLLABORATIVE FILTERING<br/>
+ B) USER BASED COLLABORATIVE FILTERING<br/>
  Collaborative filtering is used to recommend products based on the history of user behaviours and<br/>
 consequently looks at the similarities between USERS. USER-TO-USER similarity matrix is to be created <br/>
-on the basis of cosine similarity to check which customers has similar buying patterns  <br/>
+on the basis of cosine similarity to check which customers has similar buying/"liking" patterns  <br/>
 and to set hierarchy among these customers. Finally we check which are the products in the similar  <br/>
 users' basket that are missing from the examined consumer's basket, and these products can be   <br/>
-recommend to the given customer with respect to the hierarchy created on the basis of similarity.<br/>
-This technique is very effective in the field of DIRECT and ONLINE MARKETING.<br/>
+recommend to the given customer/user with respect to the hierarchy created on the basis of similarity.<br/>
+This technique can be very effective in the field of DIRECT and ONLINE MARKETING, if user profile <br/>
+doesn't change quickly and we have balance between sortiment and consumer volume.<br/>
 <br/>
- C) ITEM BASED FILTERING<br/>
- ITEM-TO-ITEM similarity matrix   <br/>
+ C) ITEM BASED COLLABOARITVE FILTERING<br/>
+ ITEM-TO-ITEM model uses almost the same method like the user-to-user one, just here we use rating distribution     <br/>
+ per item. This leads more stabil rating (rating = buying) distribution, and we don't have to rebuilt the <br/>
+ so often.
  <br/>
 3.) E-COMMERCE RETAIL BUSINESS ANALYSIS<br/>
 <br/>
