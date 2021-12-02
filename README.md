@@ -36,12 +36,14 @@ their marketing strategy in fields like:
  <br/>
  B) COLLABORATIVE FILTERING<br/>
  Collaborative filtering is used to recommend products based on the history of user behaviours and<br/>
-consequently looks at the similarities between users. 
+consequently looks at the similarities between users. <br/>
+<br/>
 - User-to-user similarity matrix   <br/>
 it is created on the basis of cosine similarity to check which customers has similar buying patterns  <br/>
 and to set hierarchy among these customers. Finally we check which are the products in the similar  <br/>
 users' basket that are missing from the examined consumer's basket, and these products can be   <br/>
 recommend to the given customer with respect to the hierarchy created on the basis of similarity.<br/>
+<br/>
 - Item-to-item similarity matrix   <br/>
  <br/>
 3.) E-COMMERCE RETAIL BUSINESS ANALYSIS<br/>
