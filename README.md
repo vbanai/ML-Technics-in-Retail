@@ -25,9 +25,9 @@ and produce more click through rate in the real life.<br/>
 A) MARKET BASKET ANALYSIS<br/>
 In this project I am focusing on how market basket analysis improve 4P strategies. Market basket analysis </br>
 can help to understand which product customers are really interestesd in what products are sold well and</br>
-which product can be combined with them. I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT elements,<br/>
-and calculate SUPPORT, CONFIDENCE and LIFT indicators in two different ways, which provide useful information <br/>
-for the companies to plan their marketing strategy in fields like:<br/>
+which product can be combined with them. I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT <br/>
+elements, and calculate SUPPORT, CONFIDENCE and LIFT indicators in two different ways, which <br/>
+provide useful information for the companies to plan their marketing strategy in fields like:<br/>
 <br/>
 - Product placement<br/>
 - Promotional discount<br/>
