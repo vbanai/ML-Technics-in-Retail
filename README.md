@@ -50,7 +50,7 @@ doesn't change quickly and we have balance between sortiment and consumer volume
  C) ITEM BASED COLLABOARITVE FILTERING<br/>
  ITEM-TO-ITEM model uses almost the same method like the user-to-user one, just here we use rating distribution     <br/>
  per item. This leads more stabil rating (rating = buying) distribution, and we don't have to rebuilt the model <br/>
- so often. It can be a good solution when we don't have many users in the system.
+ so often. It can be a good solution when we don't have many users in the system.<br/>
  <br/>
 3.) E-COMMERCE RETAIL BUSINESS ANALYSIS<br/>
 <br/>
