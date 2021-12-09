@@ -23,16 +23,18 @@ and produce more click through rate in the real life.<br/>
 2.) RECOMMENDATION SYSTEMS<br/>
 <br/>
 A) MARKET BASKET ANALYSIS<br/>
-In this project I am focusing on how market basket analysis improve 4P strategies. I determine ASSOCIATION<br/>
-I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT elements, and calculate SUPPORT, CONFIDENCE   <br/>
-and LIFT indicators in two different ways, which provide useful information for the companies to plan   <br/>
-their marketing strategy in fields like:
+In this project I am focusing on how market basket analysis improve 4P strategies. Market basket analysis </br>
+can help to understand which product customers are really interestesd in what products are sold well and</br>
+which product can be combined with them. I determine ASSOCIATION rules, ANTICEDENT AND CONSEQUENT elements,<br/>
+and calculate SUPPORT, CONFIDENCE and LIFT indicators in two different ways, which provide useful information <br/>
+for the companies to plan their marketing strategy in fields like:<br/>
 <br/>
 - Product placement<br/>
 - Promotional discount<br/>
 - POS (point of sales) advertisement <br/>
 - Product boundling<br/>
 - ANTICEDENT AND CONSEQUENT products can be combined to a new product<br/>
+- One-to-one marketing (normally I prefer using collaborative filtering for this purpose)<br/>
  <br/>
  B) USER BASED COLLABORATIVE FILTERING<br/>
  Collaborative filtering is used to recommend products based on the history of user behaviours and<br/>
