@@ -38,14 +38,15 @@ provide useful information for the companies to plan their marketing strategy in
  <br/>
  B) USER BASED COLLABORATIVE FILTERING<br/>
  Collaborative filtering (user and item based) is a secret weapon when planning one-to-one marketing <br/> 
- srategy. User based filtering is used to recommend products based on the history of user behaviours and<br/>
-consequently looks at the similarities between USERS. USER-TO-USER similarity matrix is to be created <br/>
-on the basis of cosine similarity to check which customers has similar buying/"liking" patterns  <br/>
-and to set hierarchy among these customers. Finally we check which are the products in the similar  <br/>
-users' basket that are missing from the examined consumer's basket, and these products can be   <br/>
-recommend to the given customer/user with respect to the hierarchy created on the basis of similarity.<br/>
-This technique can be very effective in the field of DIRECT and ONLINE MARKETING, if user profile <br/>
-doesn't change quickly and we have balance between sortiment and consumer volume.<br/>
+ srategy and having enough data on users and items (not being new). User based filtering is used to <br/>
+recommend products based on the history of user behaviours and consequently looks at the similarities  <br/>
+between USERS. USER-TO-USER similarity matrix is to be created on the basis of cosine similarity to   <br/>
+check which customers has similar buying/"liking" patterns and to set hierarchy among these customers.   <br/>
+Finally we check which are the products in the similar users' basket that are missing from the examined   <br/>
+consumer's basket, and these products can be recommend to the given customer/user with respect to the <br/>
+hierarchy created on the basis of similarity. This technique can be very effective in the field of DIRECT and  <br/>
+ONLINE MARKETING, if user profile doesn't change quickly and we have balance between sortiment and consumer <br/>
+volume.<br/>
 <br/>
  C) ITEM BASED COLLABOARITVE FILTERING<br/>
  ITEM-TO-ITEM model uses almost the same method like the user-to-user one, just here we use rating distribution     <br/>
