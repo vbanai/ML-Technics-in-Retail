@@ -36,7 +36,7 @@ provide useful information for the companies to plan their marketing strategy in
 - ANTICEDENT AND CONSEQUENT products can be combined to a new product<br/>
 - One-to-one marketing (normally I prefer using collaborative filtering for this purpose)<br/>
  <br/>
- B) USER BASED COLLABORATIVE FILTERING<br/>
+ B) USER BASED COLLABORATIVE FILTERING (Memory-based method)<br/>
  Collaborative filtering (user and item based) is a secret weapon when planning one-to-one marketing <br/> 
  srategy and having enough data on users and items (not being new). User based filtering is used to <br/>
 recommend products based on the history of user behaviours and consequently looks at the similarities  <br/>
@@ -45,10 +45,10 @@ check which customers has similar buying/"liking" patterns and to set hierarchy 
 Finally we check which are the products in the similar users' basket that are missing from the examined   <br/>
 consumer's basket, and these products can be recommend to the given customer/user with respect to the <br/>
 hierarchy created on the basis of similarity. This technique can be very effective in the field of DIRECT and  <br/>
-ONLINE MARKETING, if user profile doesn't change quickly and we have balance between sortiment and consumer <br/>
-volume.<br/>
+ONLINE MARKETING, if user profile doesn't change quickly and we have balance between sortiment and  <br/>
+consumer volume.<br/>
 <br/>
- C) ITEM BASED COLLABOARITVE FILTERING<br/>
+ C) ITEM BASED COLLABOARITVE FILTERING (Memory-based method)<br/>
  ITEM-TO-ITEM model uses almost the same method like the user-to-user one, just here we use rating distribution     <br/>
  per item. This leads more stabil rating (rating = buying) distribution, and we don't have to rebuilt the model <br/>
  so often. It can be a good solution when we don't have many users in the system.<br/>
