@@ -77,9 +77,9 @@ connections and relations among the data including:<br/>
  The dataset from Kaggle contains transactions made by credit cards in September 2013 by European cardholders. <br/>
  The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions. The <br/>
  reason why I was interested in this dataset is that I want to know how I can find a trade-off between <br/>
-  recall and precision or in other words (in binary classification) between sensitivity and specificity.  <br/>
+  between sensitivity and specificity.  <br/>
   As we have the task to predict the fraudulent transactions as precise as possible, we have to give up  <br/>
-  some precision percent to increase the recall result, and decrease the sum of the False Negative <br/>
+  some specificity percent to increase the sensitivity result, and decrease the sum of the False Negative <br/>
   predictions. Please check the models and the results:<br/>
    
    |           Models           | Specificity | Sensitivity |
